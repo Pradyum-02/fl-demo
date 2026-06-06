@@ -275,5 +275,5 @@ Aspiring Full Stack Developer passionate about building responsive and user-frie
 ### 🍬 Sweet • Fresh • Traditional
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6B1A1A,100:D4621E"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6B1A1A,100:D4621E"/></div>
