@@ -1,151 +1,279 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6B1A1A,100:D4621E&text=🍬%20Sweet%20trEat&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+
 # 🍬 Sweet trEat — स्वीट ट्रीट
-### Premium Website · Pashan, Pune
 
-A fully production-ready, single-page website for Sweet trEat — a women-owned Indian sweet shop, chaat centre and snack destination in Pashan, Pune, Maharashtra.
+### Premium Website • Pashan, Pune
 
----
+<p>
+A fully production-ready website crafted for a women-owned Indian sweet shop, chaat centre, and snack destination in Pune.
+</p>
 
-## 🚀 Quick Start
+<p>
 
-1. Extract the ZIP file to a folder
-2. Open `index.html` in any modern browser
-3. The website works immediately — no installation, no server, no dependencies required.
+<a href="https://pradyum-02.github.io/fl-demo/">
+<img src="https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge" />
+</a>
 
----
+<img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
 
-## 📁 File Structure
+<img src="https://img.shields.io/badge/Mobile-First-blue?style=for-the-badge" />
 
-```
-SweetTreat/
-│
-├── index.html      — Main HTML structure (all sections)
-├── style.css       — Complete CSS3 styles (variables, animations, responsive)
-├── script.js       — Vanilla JavaScript (all interactions & animations)
-│
-├── assets/
-│   ├── images/     — (placeholder for future product photos)
-│   └── icons/      — (placeholder for future custom icons)
-│
-└── README.md       — This file
-```
+<img src="https://img.shields.io/badge/Responsive-Design-purple?style=for-the-badge" />
+
+</p>
+
+</div>
 
 ---
 
-## ✅ Features
+## ✨ Overview
 
-- **10 fully styled sections**: Hero, About, Specialties, Why Us, Reviews, Gallery, Store Info, Contact, Footer
-- **Sticky Navigation** with scroll effect, active link detection, mobile hamburger menu
-- **Hero Section** with animated title, floating food emoji plate, stats counter animation
-- **About Section** with feature grid cards
-- **Specialties** — 4 animated category cards with hover effects
-- **Why Us** — 8 feature cards with icons
-- **Testimonial Slider** — auto-play, manual navigation, touch/swipe support, keyboard accessible
-- **Gallery** — filterable grid with lightbox viewer, category filter tabs
-- **Store Information** — address, hours, services, map placeholder
-- **Contact Form** — with client-side validation and success feedback
-- **Footer** — links, social icons, contact details
-- **Back to Top** button
-- **Scroll Reveal** animations via IntersectionObserver
-- **Smooth Scroll** for all anchor navigation
+Sweet trEat is a modern, responsive business website designed for a premium Indian sweet shop and chaat centre located in Pashan, Pune.
+
+The website combines elegant visuals, smooth animations, accessibility, and mobile-first development to create a professional online presence.
+
+---
+
+## 🚀 Features
+
+- 🍬 Animated Hero Section
+- 📱 Mobile First Responsive Design
+- 🎨 Premium Color System
+- 📌 Sticky Navigation
+- ⭐ Animated Statistics Counter
+- 💬 Testimonial Slider
+- 🖼️ Interactive Gallery
+- 🔍 Lightbox Image Viewer
+- 📋 Contact Form Validation
+- ⬆️ Back To Top Button
+- ✨ Scroll Reveal Animations
+- ♿ Accessibility Optimized
+- 🚀 Smooth Scroll Navigation
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
+
+</div>
+
+### Built With
+
+| Technology | Usage |
+|------------|--------|
+| <img src="https://skillicons.dev/icons?i=html" width="22"> HTML5 | Semantic Structure |
+| <img src="https://skillicons.dev/icons?i=css" width="22"> CSS3 | Styling & Animations |
+| <img src="https://skillicons.dev/icons?i=js" width="22"> JavaScript | Interactivity |
+| <img src="https://skillicons.dev/icons?i=vscode" width="22"> VS Code | Development |
+| <img src="https://skillicons.dev/icons?i=git" width="22"> Git | Version Control |
+| <img src="https://skillicons.dev/icons?i=github" width="22"> GitHub | Repository Hosting |
 
 ---
 
 ## 🎨 Design System
 
-| Token | Value | Usage |
-|---|---|---|
-| Maroon | `#6B1A1A` | Primary brand, nav, CTAs |
-| Orange | `#D4621E` | Accents, hover, highlights |
-| Gold | `#C4962A` | Decorative, ratings, tags |
-| Cream | `#FDF6EE` | Page background |
-| White | `#FFFFFF` | Card backgrounds |
-| Charcoal | `#1C1C1C` | Body text |
+### Color Palette
 
-**Fonts:** Cormorant Garamond (display/headings) · DM Sans (body) · Playfair Display (italic accents)
+| Color | Hex |
+|---------|---------|
+| 🟤 Maroon | `#6B1A1A` |
+| 🟠 Orange | `#D4621E` |
+| 🟡 Gold | `#C4962A` |
+| 🤍 Cream | `#FDF6EE` |
+| ⚪ White | `#FFFFFF` |
+| ⚫ Charcoal | `#1C1C1C` |
 
----
+### Typography
 
-## 📱 Responsive Breakpoints
-
-| Breakpoint | Width |
-|---|---|
-| Mobile | ≤ 480px |
-| Mobile (large) | ≤ 768px |
-| Tablet | ≤ 1024px |
-| Desktop | > 1024px |
+- ✨ Cormorant Garamond
+- ✨ DM Sans
+- ✨ Playfair Display
 
 ---
 
-## 🏪 Business Details
+## 📱 Responsive Design
 
-| Field | Value |
-|---|---|
-| Business Name | Sweet trEat · स्वीट ट्रीट |
-| Type | Sweet Shop · Chaat Centre · Snack Corner |
-| Phone | 88057 87743 |
-| Address | Sus Ln, Opp. IDBI Bank, Balaji Colony, Jai Bhavani Nagar, Pashan, Pune 411021 |
-| Hours | Open Daily · 8:00 AM onwards |
-| Rating | ⭐ 4.1 / 5 · 439+ Reviews |
-| Ownership | Women-Owned Business |
-| Services | Dine-In · No-Contact Delivery · Takeaway |
+| Device | Width |
+|----------|----------|
+| 📱 Mobile | ≤ 480px |
+| 📱 Large Mobile | ≤ 768px |
+| 💻 Tablet | ≤ 1024px |
+| 🖥️ Desktop | > 1024px |
 
 ---
 
-## 🛠 Technology
+## 🏪 Business Information
 
-- **HTML5** — Semantic structure, ARIA accessibility
-- **CSS3** — Custom properties, Grid, Flexbox, animations, transitions
-- **Vanilla JavaScript** — ES6+, IntersectionObserver, touch events
-
-No frameworks. No libraries. No build tools. No dependencies.
+| Field | Details |
+|--------|---------|
+| 🍬 Business Name | Sweet trEat · स्वीट ट्रीट |
+| 📍 Location | Pashan, Pune |
+| ☎️ Phone | 88057 87743 |
+| ⭐ Rating | 4.1 / 5 |
+| 📝 Reviews | 439+ Reviews |
+| 👩 Ownership | Women-Owned Business |
+| 🍽️ Services | Dine-In · Delivery · Takeaway |
 
 ---
 
-## 🔧 Customisation Guide
+## 📂 Project Structure
 
-### Update Business Info
-Edit content directly in `index.html` — all text, phone numbers, and addresses are in plain HTML.
+```bash
+SweetTreat/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── images/
+│   └── icons/
+│
+└── README.md
+```
 
-### Change Colors
-Update CSS variables at the top of `style.css` inside `:root {}`:
+---
+
+## ⚡ Quick Start
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Pradyum-02/SweetTreat.git
+```
+
+### Open Website
+
+```bash
+index.html
+```
+
+No installation required.
+
+No frameworks required.
+
+No dependencies required.
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+
+<img src="./assets/preview.png" width="100%" alt="Sweet trEat Website Preview"/>
+
+</p>
+
+> Add a screenshot named `preview.png` inside the assets folder.
+
+---
+
+## 🔧 Customization
+
+### Update Business Information
+
+Edit directly in:
+
+```text
+index.html
+```
+
+### Update Brand Colors
+
 ```css
-:root {
-  --maroon: #6B1A1A;
-  --orange: #D4621E;
-  --gold:   #C4962A;
-  /* ... */
+:root{
+  --maroon:#6B1A1A;
+  --orange:#D4621E;
+  --gold:#C4962A;
 }
 ```
 
-### Add Real Photos
-1. Place images in `assets/images/`
-2. In `index.html`, replace `<div class="gallery-inner" style="background: ...">` divs with `<img>` tags pointing to your images
+### Add Product Images
 
-### Update Google Maps
-Replace the map placeholder in the Store section with an embedded iframe from Google Maps:
-```html
-<iframe src="YOUR_GOOGLE_MAPS_EMBED_URL"
-  width="100%" height="340"
-  style="border:0; border-radius:24px;"
-  allowfullscreen="" loading="lazy">
-</iframe>
+Place images inside:
+
+```text
+assets/images/
 ```
 
 ---
 
 ## ♿ Accessibility
 
-- Semantic HTML5 landmarks (`<nav>`, `<main>`, `<section>`, `<footer>`)
-- ARIA labels on interactive elements
-- Keyboard navigation for hamburger menu, gallery, slider
-- Focus management
-- `aria-live` regions for form feedback
-- Sufficient colour contrast ratios
+- ✅ Semantic HTML5
+- ✅ Keyboard Navigation
+- ✅ ARIA Labels
+- ✅ Focus Management
+- ✅ Screen Reader Friendly
+- ✅ Accessible Color Contrast
 
 ---
 
-## 📄 License
+## 📌 Highlights
 
-© 2026 Sweet trEat. All Rights Reserved.
+✅ Production Ready
 
-Website design created for Sweet trEat, Pashan, Pune.
+✅ Mobile First
+
+✅ Fully Responsive
+
+✅ SEO Friendly
+
+✅ Fast Performance
+
+✅ Modern UI/UX
+
+✅ Clean Code Structure
+
+✅ No Dependencies
+
+---
+
+## 👨‍💻 Developer
+
+### Pradyum Meshram
+
+Aspiring Full Stack Developer passionate about building responsive and user-friendly web experiences.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Pradyum-02">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ If you like this project, consider giving it a star!
+
+### Built with ❤️ using HTML, CSS & JavaScript
+
+### 🍬 Sweet • Fresh • Traditional
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:6B1A1A,100:D4621E"/>
